@@ -9,9 +9,3 @@ export function manageFriends(state, action){
         return state;
   }
 }
-
-
-// animals.slice(2)
-
-// let newFriends = state.friends.filter(f => f.id !== action.id);
-// +      return { friends: newFriends };
